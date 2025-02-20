@@ -1,6 +1,6 @@
 # ตัวระบุปริมาณ ！ 量词 ！ ตัวระบุปริมาณ ！ ตัวระบุปริมาณ ！ ตัวระบุปริมาณ ！ ตัวระบุปริมาณ ！ ตัวระบุปริมาณ ！ ตัวระบุปริมาณ ！ ตัวระบุปริมาณ ！ ตัวระบุปริมาณ ！ ตัวระบุปริมาณ ！ 量词 ！ 
 
-# ฉบับ	！	封；份；期；张	！	numerical classifier for periodicals, documents, legal documents, newspapers, essays, e-mail, mail, letters, contracts	！	ฉบับ	！	ฉบับ	！	ฉบับ	！	ฉบับ	！	ฉบับ	！	ฉบับ	！	ฉบับ	！	ฉบับ	！	ฉบับ	！	ฉบับ	！	ฉบับ	！	ฉบับ	！	封；份；期；张	！	numerical classifier for periodicals, documents, legal documents, newspapers, essays, e-mail, mail, letters, contracts
+# ฉบับ	！	封；份；期；张	！	numerical classifier for periodicals, documents, legal documents, newspapers, essays, e-mail, mail, letters, contracts	！numerical classifier for periodicals, documents, legal documents, newspapers, essays, e-mail, mail, letters, contracts	！	ฉบับ	！	ฉบับ	！	ฉบับ	！	ฉบับ	！	ฉบับ	！	ฉบับ	！	ฉบับ	！	ฉบับ	！	ฉบับ	！	ฉบับ	！	ฉบับ	！	ฉบับ	！	封；份；期；张	！	numerical classifier for periodicals, documents, legal documents, newspapers, essays, e-mail, mail, letters, contracts
 
 หนังสือพิมพ์ 1 ฉบับ	！	1 newspaper	！	一封报纸	！	หนังสือพิมพ์ 1 ฉบับ	！	หนังสือพิมพ์ 1 ฉบับ	！	หนังสือพิมพ์ 1 ฉบับ	！	หนังสือพิมพ์ 1 ฉบับ	！	หนังสือพิมพ์ 1 ฉบับ	！	หนังสือพิมพ์ 1 ฉบับ	！	หนังสือพิมพ์ 1 ฉบับ	！	หนังสือพิมพ์ 1 ฉบับ	！	หนังสือพิมพ์ 1 ฉบับ	！	หนังสือพิมพ์ 1 ฉบับ	！	หนังสือพิมพ์ 1 ฉบับ	！	หนังสือพิมพ์ 1 ฉบับ	！	1 newspaper	！	一封报纸
 
@@ -20,7 +20,7 @@
 
 ฉันเขียนจดหมาย 1 ฉบับเพื่อบอกข่าวสำคัญ	！	I write 1 letter to tell important news	！	我写一封信是为了告诉你一些重要的消息。	！	ฉันเขียนจดหมาย 1 ฉบับเพื่อบอกข่าวสำคัญ	！	ฉันเขียนจดหมาย 1 ฉบับเพื่อบอกข่าวสำคัญ	！	ฉันเขียนจดหมาย 1 ฉบับเพื่อบอกข่าวสำคัญ	！	ฉันเขียนจดหมาย 1 ฉบับเพื่อบอกข่าวสำคัญ	！	ฉันเขียนจดหมาย 1 ฉบับเพื่อบอกข่าวสำคัญ	！	ฉันเขียนจดหมาย 1 ฉบับเพื่อบอกข่าวสำคัญ	！	ฉันเขียนจดหมาย 1 ฉบับเพื่อบอกข่าวสำคัญ	！	ฉันเขียนจดหมาย 1 ฉบับเพื่อบอกข่าวสำคัญ	！	ฉันเขียนจดหมาย 1 ฉบับเพื่อบอกข่าวสำคัญ	！	ฉันเขียนจดหมาย 1 ฉบับเพื่อบอกข่าวสำคัญ	！	ฉันเขียนจดหมาย 1 ฉบับเพื่อบอกข่าวสำคัญ	！	ฉันเขียนจดหมาย 1 ฉบับเพื่อบอกข่าวสำคัญ	！	I write 1 letter to tell important news	！	我写一封信是为了告诉你一些重要的消息。
 
-# ด้าม	！	支；把；柄	！	numerical classifier for broom, brush, pen	！	ด้าม	！	ด้าม	！	ด้าม	！	ด้าม	！	ด้าม	！	ด้าม	！	ด้าม	！	ด้าม	！	ด้าม	！	ด้าม	！	ด้าม	！	ด้าม	！	支；把；柄	！	numerical classifier for broom, brush, pen
+# ด้าม	！	支；把；柄	！	numerical classifier for broom, brush, pen	！numerical classifier for broom, brush, pen	！	ด้าม	！	ด้าม	！	ด้าม	！	ด้าม	！	ด้าม	！	ด้าม	！	ด้าม	！	ด้าม	！	ด้าม	！	ด้าม	！	ด้าม	！	ด้าม	！	支；把；柄	！	numerical classifier for broom, brush, pen
 
 ปากกา 1 ด้าม	！	1 pen	！	一支笔	！	ปากกา 1 ด้าม	！	ปากกา 1 ด้าม	！	ปากกา 1 ด้าม	！	ปากกา 1 ด้าม	！	ปากกา 1 ด้าม	！	ปากกา 1 ด้าม	！	ปากกา 1 ด้าม	！	ปากกา 1 ด้าม	！	ปากกา 1 ด้าม	！	ปากกา 1 ด้าม	！	ปากกา 1 ด้าม	！	ปากกา 1 ด้าม	！	1 pen	！	一支笔
 
@@ -46,7 +46,7 @@
 
 นักรบถือดาบ 1 ด้ามเพื่อปกป้องอาณาจักร	！	The warrior holds 1 sword to protect the kingdom	！	战士手持剑来保卫王国。	！	นักรบถือดาบ 1 ด้ามเพื่อปกป้องอาณาจักร	！	นักรบถือดาบ 1 ด้ามเพื่อปกป้องอาณาจักร	！	นักรบถือดาบ 1 ด้ามเพื่อปกป้องอาณาจักร	！	นักรบถือดาบ 1 ด้ามเพื่อปกป้องอาณาจักร	！	นักรบถือดาบ 1 ด้ามเพื่อปกป้องอาณาจักร	！	นักรบถือดาบ 1 ด้ามเพื่อปกป้องอาณาจักร	！	นักรบถือดาบ 1 ด้ามเพื่อปกป้องอาณาจักร	！	นักรบถือดาบ 1 ด้ามเพื่อปกป้องอาณาจักร	！	นักรบถือดาบ 1 ด้ามเพื่อปกป้องอาณาจักร	！	นักรบถือดาบ 1 ด้ามเพื่อปกป้องอาณาจักร	！	นักรบถือดาบ 1 ด้ามเพื่อปกป้องอาณาจักร	！	นักรบถือดาบ 1 ด้ามเพื่อปกป้องอาณาจักร	！	The warrior holds 1 sword to protect the kingdom	！	战士手持剑来保卫王国。
 
-# อัน	！	个；件；块；根；张	！	numerical classifier for small things	！	อัน	！	อัน	！	อัน	！	อัน	！	อัน	！	อัน	！	อัน	！	อัน	！	อัน	！	อัน	！	อัน	！	อัน	！	个；件；块；根；张	！	numerical classifier for small things
+# อัน	！	个；件；块；根；张	！	numerical classifier for small things	！numerical classifier for small things	！	อัน	！	อัน	！	อัน	！	อัน	！	อัน	！	อัน	！	อัน	！	อัน	！	อัน	！	อัน	！	อัน	！	อัน	！	个；件；块；根；张	！	numerical classifier for small things
 
 แปรงสีฟัน 1 อัน	！	1 toothbrush	！	一个牙刷	！	แปรงสีฟัน 1 อัน	！	แปรงสีฟัน 1 อัน	！	แปรงสีฟัน 1 อัน	！	แปรงสีฟัน 1 อัน	！	แปรงสีฟัน 1 อัน	！	แปรงสีฟัน 1 อัน	！	แปรงสีฟัน 1 อัน	！	แปรงสีฟัน 1 อัน	！	แปรงสีฟัน 1 อัน	！	แปรงสีฟัน 1 อัน	！	แปรงสีฟัน 1 อัน	！	แปรงสีฟัน 1 อัน	！	1 toothbrush	！	一个牙刷
 
@@ -74,7 +74,7 @@
 
 เขาใช้ไฟแช็ก 1 อันเพื่อจุดบุหรี่	！	He uses 1 lighter to light a cigarette	！	他用一个打火机点燃了一根香烟。	！	เขาใช้ไฟแช็ก 1 อันเพื่อจุดบุหรี่	！	เขาใช้ไฟแช็ก 1 อันเพื่อจุดบุหรี่	！	เขาใช้ไฟแช็ก 1 อันเพื่อจุดบุหรี่	！	เขาใช้ไฟแช็ก 1 อันเพื่อจุดบุหรี่	！	เขาใช้ไฟแช็ก 1 อันเพื่อจุดบุหรี่	！	เขาใช้ไฟแช็ก 1 อันเพื่อจุดบุหรี่	！	เขาใช้ไฟแช็ก 1 อันเพื่อจุดบุหรี่	！	เขาใช้ไฟแช็ก 1 อันเพื่อจุดบุหรี่	！	เขาใช้ไฟแช็ก 1 อันเพื่อจุดบุหรี่	！	เขาใช้ไฟแช็ก 1 อันเพื่อจุดบุหรี่	！	เขาใช้ไฟแช็ก 1 อันเพื่อจุดบุหรี่	！	เขาใช้ไฟแช็ก 1 อันเพื่อจุดบุหรี่	！	He uses 1 lighter to light a cigarette	！	他用一个打火机点燃了一根香烟。
 
-# ลำ	！	根；架；艘	！	numerical classifier for long curved objects such as ships, airplanes, bamboo, etc.	！	ลำ	！	ลำ	！	ลำ	！	ลำ	！	ลำ	！	ลำ	！	ลำ	！	ลำ	！	ลำ	！	ลำ	！	ลำ	！	ลำ	！	根；架；艘	！	numerical classifier for long curved objects such as ships, airplanes, bamboo, etc.
+# ลำ	！	根；架；艘	！	numerical classifier for long curved objects such as ships, airplanes, bamboo, etc.	！numerical classifier for long curved objects such as ships, airplanes, bamboo, etc.	！	ลำ	！	ลำ	！	ลำ	！	ลำ	！	ลำ	！	ลำ	！	ลำ	！	ลำ	！	ลำ	！	ลำ	！	ลำ	！	ลำ	！	根；架；艘	！	numerical classifier for long curved objects such as ships, airplanes, bamboo, etc.
 
 ไม้ไผ่ 1 ลำ	！	1 bamboo stick	！	一根竹棍	！	ไม้ไผ่ 1 ลำ	！	ไม้ไผ่ 1 ลำ	！	ไม้ไผ่ 1 ลำ	！	ไม้ไผ่ 1 ลำ	！	ไม้ไผ่ 1 ลำ	！	ไม้ไผ่ 1 ลำ	！	ไม้ไผ่ 1 ลำ	！	ไม้ไผ่ 1 ลำ	！	ไม้ไผ่ 1 ลำ	！	ไม้ไผ่ 1 ลำ	！	ไม้ไผ่ 1 ลำ	！	ไม้ไผ่ 1 ลำ	！	1 bamboo stick	！	一根竹棍
 
@@ -106,7 +106,7 @@
 
 เขานั่งเครื่องบิน 1 ลำเพื่อเดินทางไปต่างประเทศ	！	He takes 1 airplane to travel abroad	！	他乘飞机去出国旅行。	！	เขานั่งเครื่องบิน 1 ลำเพื่อเดินทางไปต่างประเทศ	！	เขานั่งเครื่องบิน 1 ลำเพื่อเดินทางไปต่างประเทศ	！	เขานั่งเครื่องบิน 1 ลำเพื่อเดินทางไปต่างประเทศ	！	เขานั่งเครื่องบิน 1 ลำเพื่อเดินทางไปต่างประเทศ	！	เขานั่งเครื่องบิน 1 ลำเพื่อเดินทางไปต่างประเทศ	！	เขานั่งเครื่องบิน 1 ลำเพื่อเดินทางไปต่างประเทศ	！	เขานั่งเครื่องบิน 1 ลำเพื่อเดินทางไปต่างประเทศ	！	เขานั่งเครื่องบิน 1 ลำเพื่อเดินทางไปต่างประเทศ	！	เขานั่งเครื่องบิน 1 ลำเพื่อเดินทางไปต่างประเทศ	！	เขานั่งเครื่องบิน 1 ลำเพื่อเดินทางไปต่างประเทศ	！	เขานั่งเครื่องบิน 1 ลำเพื่อเดินทางไปต่างประเทศ	！	เขานั่งเครื่องบิน 1 ลำเพื่อเดินทางไปต่างประเทศ	！	He takes 1 airplane to travel abroad	！	他乘飞机去出国旅行。
 
-# คัน	！	辆；部；把	！	 numerical classifier for vehicles, cars, umbrellas, etc.	！	คัน	！	คัน	！	คัน	！	คัน	！	คัน	！	คัน	！	คัน	！	คัน	！	คัน	！	คัน	！	คัน	！	คัน	！	辆；部；把	！	 numerical classifier for vehicles, cars, umbrellas, etc.
+# คัน	！	辆；部；把	！	 numerical classifier for vehicles, cars, umbrellas, etc.	！numerical classifier for vehicles, cars, umbrellas, etc.	！	คัน	！	คัน	！	คัน	！	คัน	！	คัน	！	คัน	！	คัน	！	คัน	！	คัน	！	คัน	！	คัน	！	คัน	！	辆；部；把	！	 numerical classifier for vehicles, cars, umbrellas, etc.
 
 รถยนต์ 1 คัน	！	1 car	！	一辆汽车	！	รถยนต์ 1 คัน	！	รถยนต์ 1 คัน	！	รถยนต์ 1 คัน	！	รถยนต์ 1 คัน	！	รถยนต์ 1 คัน	！	รถยนต์ 1 คัน	！	รถยนต์ 1 คัน	！	รถยนต์ 1 คัน	！	รถยนต์ 1 คัน	！	รถยนต์ 1 คัน	！	รถยนต์ 1 คัน	！	รถยนต์ 1 คัน	！	1 car	！	一辆汽车
 
